@@ -2,4 +2,9 @@ Hi this is to learn git!!!!
 this is second line
 this is third line
 
+now i Pushed this file into the git hub
+
+I am trying to repush it
+
+
 
